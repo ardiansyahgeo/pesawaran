@@ -1,0 +1,1 @@
+var json_fasilitas_kesehatan_5 = {"type":"FeatureCollection","name":"fasilitas_kesehatan_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAME":"Puskesmas Wates","LAYER":"Unknown Point Feature","klasifikas":"Fasilitas Kesehatan"},"geometry":{"type":"Point","coordinates":[105.1895918,-5.1018921]}}]}
